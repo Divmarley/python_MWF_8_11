@@ -100,9 +100,27 @@ person = {
 
 
 
-kk =person.keys()
+# kk =person.keys()
+# # print( kk)
+
+
+# kk =person.values()
 # print( kk)
 
 
-kk =person.values()
-print( kk)
+
+# car =	{
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+
+# print(car["year"])
+
+# car.update({"year": 2020})
+# print(car)
+
+# car["year"] = 2020 
+# print(car)
+
+
